@@ -12,9 +12,10 @@
 [![Figma](https://img.shields.io/badge/Figma-252525?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/@leonid)
 [![Dribbble](https://img.shields.io/badge/Dribbble-252525?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/lets)
 [![Email](https://img.shields.io/badge/Email-252525?style=flat-square&logo=gmail&logoColor=white)](mailto:leonidts@vk.com)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Leonid-ux&label=Profile+views&color=B66A50&style=flat-square)
 
----
+
 
 ## Собственные проекты
 
@@ -22,21 +23,25 @@
 
 Приложение-компаньон для **iRacing** с настраиваемыми оверлеями, виджетами телеметрии, управлением RGB-подсветкой Simagic и хаптической обратной связью SIMSONN.
 
+[![Lets Dashboard — приложение для iRacing](https://github.com/user-attachments/assets/2e861864-abcc-4f26-8dee-8b20383f9b10)](https://github.com/Leonid-ux/lets-dashboard)
+
 [![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white)](https://github.com/Leonid-ux/lets-dashboard/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/Leonid-ux/lets-dashboard/total?style=flat-square&color=0E7490&label=Downloads)](https://github.com/Leonid-ux/lets-dashboard/releases)
 [![Version](https://img.shields.io/github/v/release/Leonid-ux/lets-dashboard?style=flat-square&color=238636&label=Version)](https://github.com/Leonid-ux/lets-dashboard/releases/latest)
 [![Stars](https://img.shields.io/github/stars/Leonid-ux/lets-dashboard?style=flat-square&color=666666&label=Stars)](https://github.com/Leonid-ux/lets-dashboard/stargazers)
+-----
 
 ### [Lets Todo](https://github.com/Leonid-ux/lets-todo)
 
 Минималистичное приложение для управления **задачами, привычками и событиями**. Умный ввод на естественном языке, трекеры активности, таймеры и персональная статистика.
+
+[![Lets Todo — менеджер задач и привычек](https://github.com/user-attachments/assets/58b5c858-f9b5-4dd7-97a5-12ecf7075e59)](https://github.com/Leonid-ux/lets-todo)
 
 [![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white)](https://github.com/Leonid-ux/lets-todo/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/Leonid-ux/lets-todo/total?style=flat-square&color=B66A50&label=Downloads)](https://github.com/Leonid-ux/lets-todo/releases)
 [![Version](https://img.shields.io/github/v/release/Leonid-ux/lets-todo?style=flat-square&color=238636&label=Version)](https://github.com/Leonid-ux/lets-todo/releases/latest)
 [![Stars](https://img.shields.io/github/stars/Leonid-ux/lets-todo?style=flat-square&color=666666&label=Stars)](https://github.com/Leonid-ux/lets-todo/stargazers)
 
----
 
 ## Поддержать проекты
 
@@ -48,7 +53,7 @@ Lets Dashboard и Lets Todo — независимые проекты, кото�
 
 [![DonationAlerts](https://img.shields.io/badge/Поддержать-DonationAlerts-FF7F00?style=flat-square)](https://www.donationalerts.com/r/leonid_ux)
 
----
+
 
 ## Профессиональный опыт
 
@@ -76,7 +81,7 @@ Lets Dashboard и Lets Todo — независимые проекты, кото�
 
 Проектирование веб- и мобильных интерфейсов платформы STAQ для автоматизации операционных процессов предприятий.
 
----
+
 
 ## Компетенции
 
@@ -101,7 +106,7 @@ Lets Dashboard и Lets Todo — независимые проекты, кото�
 
 `Project Documentation` `Roadmapping` `Backlog Management` `Technical Writing` `Team Collaboration`
 
----
+
 
 ## Контакты
 
