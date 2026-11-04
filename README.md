@@ -30,7 +30,7 @@
 [![Version](https://img.shields.io/github/v/release/Leonid-ux/lets-dashboard?style=flat-square&color=238636&label=Version)](https://github.com/Leonid-ux/lets-dashboard/releases/latest)
 [![Stars](https://img.shields.io/github/stars/Leonid-ux/lets-dashboard?style=flat-square&color=666666&label=Stars)](https://github.com/Leonid-ux/lets-dashboard/stargazers)
 
-**[Скачать приложение](https://github.com/Leonid-ux/lets-dashboard/releases/latest)** · [Репозиторий](https://github.com/Leonid-ux/lets-dashboard)
+
 
 ---
 
@@ -45,7 +45,6 @@
 [![Version](https://img.shields.io/github/v/release/Leonid-ux/lets-todo?style=flat-square&color=238636&label=Version)](https://github.com/Leonid-ux/lets-todo/releases/latest)
 [![Stars](https://img.shields.io/github/stars/Leonid-ux/lets-todo?style=flat-square&color=666666&label=Stars)](https://github.com/Leonid-ux/lets-todo/stargazers)
 
-**[Скачать приложение](https://github.com/Leonid-ux/lets-todo/releases/latest)** · [Репозиторий](https://github.com/Leonid-ux/lets-todo)
 
 ---
 
