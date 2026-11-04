@@ -2,15 +2,19 @@
 
 **Lead UX/UI Designer** · Product Design · Design Systems · AI-assisted Development
 
-Проектирую интерфейсы для сложных систем в медицине, промышленности, IoT и Enterprise. Работаю с дизайн-системами, пользовательскими сценариями и визуализацией данных.
+Проектирую сложные цифровые продукты, превращая многоуровневые процессы, большие объёмы данных и технические ограничения в понятные и функциональные интерфейсы.
 
-Помимо UX/UI, развиваю собственные приложения, объединяя дизайн и разработку.
+Мой опыт охватывает **медицинское ПО, корпоративные системы, промышленную автоматизацию, CMS и IoT**. Разрабатываю UX-логику, формирую дизайн-системы и создаю масштабируемые интерфейсные решения.
+
+Развиваюсь на стыке **дизайна и разработки**: работаю с HTML/CSS, Git и AI-assisted development. Создаю собственные приложения **Lets Dashboard** и **Lets Todo**, самостоятельно проходя путь от идеи и проектирования до работающего продукта.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=flat-square&logo=readme&logoColor=white)](https://leonidts.tilda.ws/)
 [![Figma](https://img.shields.io/badge/Figma-252525?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/@leonid)
 [![Dribbble](https://img.shields.io/badge/Dribbble-252525?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/lets)
 [![Email](https://img.shields.io/badge/Email-252525?style=flat-square&logo=gmail&logoColor=white)](mailto:leonidts@vk.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Leonid-ux&label=Profile+views&color=B66A50&style=flat-square)
+
+---
 
 ## Собственные проекты
 
@@ -32,6 +36,8 @@
 [![Version](https://img.shields.io/github/v/release/Leonid-ux/lets-todo?style=flat-square&color=238636&label=Version)](https://github.com/Leonid-ux/lets-todo/releases/latest)
 [![Stars](https://img.shields.io/github/stars/Leonid-ux/lets-todo?style=flat-square&color=666666&label=Stars)](https://github.com/Leonid-ux/lets-todo/stargazers)
 
+---
+
 ## Поддержать проекты
 
 Lets Dashboard и Lets Todo — независимые проекты, которые я разрабатываю в свободное время. Если приложения оказались полезными, вы можете поддержать их дальнейшее развитие.
@@ -41,6 +47,8 @@ Lets Dashboard и Lets Todo — независимые проекты, кото�
 </a>
 
 [![DonationAlerts](https://img.shields.io/badge/Поддержать-DonationAlerts-FF7F00?style=flat-square)](https://www.donationalerts.com/r/leonid_ux)
+
+---
 
 ## Профессиональный опыт
 
@@ -68,6 +76,8 @@ Lets Dashboard и Lets Todo — независимые проекты, кото�
 
 Проектирование веб- и мобильных интерфейсов платформы STAQ для автоматизации операционных процессов предприятий.
 
+---
+
 ## Компетенции
 
 **UX/UI и дизайн-системы**
@@ -90,6 +100,8 @@ Lets Dashboard и Lets Todo — независимые проекты, кото�
 **Процессы**
 
 `Project Documentation` `Roadmapping` `Backlog Management` `Technical Writing` `Team Collaboration`
+
+---
 
 ## Контакты
 
