@@ -24,7 +24,7 @@
 [![Version](https://img.shields.io/github/v/release/Leonid-ux/lets-dashboard?style=flat-square&color=238636&label=Version)](https://github.com/Leonid-ux/lets-dashboard/releases/latest)
 [![Stars](https://img.shields.io/github/stars/Leonid-ux/lets-dashboard?style=flat-square&color=666666&label=Stars)](https://github.com/Leonid-ux/lets-dashboard/stargazers)
 
-[Репозиторий](https://github.com/Leonid-ux/lets-dashboard) · [Скачать приложение](https://github.com/Leonid-ux/lets-dashboard/releases/latest)
+
 
 ### [Lets Todo](https://github.com/Leonid-ux/lets-todo)
 
@@ -35,22 +35,22 @@
 [![Version](https://img.shields.io/github/v/release/Leonid-ux/lets-todo?style=flat-square&color=238636&label=Version)](https://github.com/Leonid-ux/lets-todo/releases/latest)
 [![Stars](https://img.shields.io/github/stars/Leonid-ux/lets-todo?style=flat-square&color=666666&label=Stars)](https://github.com/Leonid-ux/lets-todo/stargazers)
 
-[Репозиторий](https://github.com/Leonid-ux/lets-todo) · [Скачать приложение](https://github.com/Leonid-ux/lets-todo/releases/latest)
+
 
 
 ## Поддержать проекты
 Lets Dashboard и Lets Todo — независимые проекты, которые я разрабатываю в свободное время. Если приложения оказались полезными, вы можете поддержать их дальнейшее развитие.
 
-[![DonationAlerts](https://img.shields.io/badge/Поддержать-DonationAlerts-FF7F00?style=flat-square)](https://www.donationalerts.com/r/leonid_ux)
-
-Также можно воспользоваться QR-кодом:
-
 <a href="https://www.donationalerts.com/r/leonid_ux">
-  <img src="https://files.donationalerts.com/uploads/qr/11750644/qr_d3265ffca371884a4c0e9167371b7393.png" alt="QR-код DonationAlerts" width="140">
+  <img src="https://files.donationalerts.com/uploads/qr/11750644/qr_d3265ffca371884a4c0e9167371b7393.png" alt="QR-код DonationAlerts" width="168">
 </a>
 
 
-### Профессиональный опыт
+[![DonationAlerts](https://img.shields.io/badge/Поддержать-DonationAlerts-FF7F00?style=flat-square)](https://www.donationalerts.com/r/leonid_ux)
+
+
+
+## Профессиональный опыт
 
 **[DCMSys](https://dcmsys.com/) · Lead UX/UI Designer**
 
