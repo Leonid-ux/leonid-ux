@@ -12,7 +12,6 @@
 [![Figma](https://img.shields.io/badge/Figma-252525?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/@leonid)
 [![Dribbble](https://img.shields.io/badge/Dribbble-252525?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/lets)
 [![Email](https://img.shields.io/badge/Email-252525?style=flat-square&logo=gmail&logoColor=white)](mailto:leonidts@vk.com)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Leonid-ux&label=Profile+views&color=B66A50&style=flat-square)
 
 ---
