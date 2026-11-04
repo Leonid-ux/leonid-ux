@@ -10,8 +10,7 @@
 [![Figma](https://img.shields.io/badge/Figma-252525?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/@leonid)
 [![Dribbble](https://img.shields.io/badge/Dribbble-252525?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/lets)
 [![Email](https://img.shields.io/badge/Email-252525?style=flat-square&logo=gmail&logoColor=white)](mailto:leonidts@vk.com)
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=Leonid-ux&label=Profile+views&color=B66A50&style=flat-square)
 
 ## Собственные проекты
 
@@ -24,8 +23,6 @@
 [![Version](https://img.shields.io/github/v/release/Leonid-ux/lets-dashboard?style=flat-square&color=238636&label=Version)](https://github.com/Leonid-ux/lets-dashboard/releases/latest)
 [![Stars](https://img.shields.io/github/stars/Leonid-ux/lets-dashboard?style=flat-square&color=666666&label=Stars)](https://github.com/Leonid-ux/lets-dashboard/stargazers)
 
-
-
 ### [Lets Todo](https://github.com/Leonid-ux/lets-todo)
 
 Минималистичное приложение для управления **задачами, привычками и событиями**. Умный ввод на естественном языке, трекеры активности, таймеры и персональная статистика.
@@ -35,20 +32,15 @@
 [![Version](https://img.shields.io/github/v/release/Leonid-ux/lets-todo?style=flat-square&color=238636&label=Version)](https://github.com/Leonid-ux/lets-todo/releases/latest)
 [![Stars](https://img.shields.io/github/stars/Leonid-ux/lets-todo?style=flat-square&color=666666&label=Stars)](https://github.com/Leonid-ux/lets-todo/stargazers)
 
-
-
-
 ## Поддержать проекты
+
 Lets Dashboard и Lets Todo — независимые проекты, которые я разрабатываю в свободное время. Если приложения оказались полезными, вы можете поддержать их дальнейшее развитие.
 
 <a href="https://www.donationalerts.com/r/leonid_ux">
   <img src="https://files.donationalerts.com/uploads/qr/11750644/qr_d3265ffca371884a4c0e9167371b7393.png" alt="QR-код DonationAlerts" width="168">
 </a>
 
-
 [![DonationAlerts](https://img.shields.io/badge/Поддержать-DonationAlerts-FF7F00?style=flat-square)](https://www.donationalerts.com/r/leonid_ux)
-
-
 
 ## Профессиональный опыт
 
@@ -76,8 +68,6 @@ Lets Dashboard и Lets Todo — независимые проекты, кото�
 
 Проектирование веб- и мобильных интерфейсов платформы STAQ для автоматизации операционных процессов предприятий.
 
-
-
 ## Компетенции
 
 **UX/UI и дизайн-системы**
@@ -100,8 +90,6 @@ Lets Dashboard и Lets Todo — независимые проекты, кото�
 **Процессы**
 
 `Project Documentation` `Roadmapping` `Backlog Management` `Technical Writing` `Team Collaboration`
-
-
 
 ## Контакты
 
