@@ -1,48 +1,115 @@
-### Привет 👋 Я Леонид Цветков
+# Леонид Цветков
 
-**Lead UX/UI Designer** · Проектирую интерфейсы для сложных систем: CMS, IoT, медицина, промышленность.
+**Lead UX/UI Designer** · Product Design · Design Systems · AI-assisted Development
 
----
+Проектирую интерфейсы для сложных систем в медицине, промышленности, IoT и Enterprise. Работаю с дизайн-системами, пользовательскими сценариями и визуализацией данных.
 
-### О себе
+Помимо UX/UI, развиваю собственные приложения, объединяя дизайн и разработку.
 
-Сейчас работаю **Lead UX/UI Designer** в [**DCMSys**](https://dcmsys.com/).
+[![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=flat-square&logo=readme&logoColor=white)](https://leonidts.tilda.ws/)
+[![Figma](https://img.shields.io/badge/Figma-252525?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/@leonid)
+[![Dribbble](https://img.shields.io/badge/Dribbble-252525?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/lets)
+[![Email](https://img.shields.io/badge/Email-252525?style=flat-square&logo=gmail&logoColor=white)](mailto:leonidts@vk.com)
 
-Больше 3 лет сотрудничал с компанией [**Scarlett and Monarch**](https://websm.io/) — активно участвовал в проектировании и создании Content Management System.
 
-Занимался разработкой приложения для автоматизации [**Мособлгаза**](https://mosoblgaz.ru/) в части потребительских услуг, проведения обслуживания, ремонта оборудования и других операций компании.
 
-Продуктивно работал с [**Visiology**](https://ru.visiology.su/) и [**Polymedia**](https://www.polymedia.ru/) — обновлял и создавал графику и интерфейсы программных компонентов для управления видеостенами, проекционным и другим отображающим оборудованием Polywall.
+## Собственные проекты
 
-Участвовал в разработке мобильного и веб-интерфейса визуализации и анализа данных коммуникационных цепочек в сфере **IoT** для **OpenMetering** (Швеция).
+### [Lets Dashboard](https://github.com/Leonid-ux/lets-dashboard)
 
-Вместе с командой [**Staq Digital**](https://staq.ru/) проектировал интерфейсы веб- и мобильного приложения платформы [STAQ](https://staq.ru/) для автоматизации операционных процессов предприятия.
+Приложение-компаньон для **iRacing** с настраиваемыми оверлеями, виджетами телеметрии, управлением RGB-подсветкой Simagic и хаптической обратной связью SIMSONN.
 
----
+[![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white)](https://github.com/Leonid-ux/lets-dashboard/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Leonid-ux/lets-dashboard/total?style=flat-square&color=0E7490&label=Downloads)](https://github.com/Leonid-ux/lets-dashboard/releases)
+[![Version](https://img.shields.io/github/v/release/Leonid-ux/lets-dashboard?style=flat-square&color=238636&label=Version)](https://github.com/Leonid-ux/lets-dashboard/releases/latest)
+[![Stars](https://img.shields.io/github/stars/Leonid-ux/lets-dashboard?style=flat-square&color=666666&label=Stars)](https://github.com/Leonid-ux/lets-dashboard/stargazers)
 
-### Что я умею
+[Репозиторий](https://github.com/Leonid-ux/lets-dashboard) · [Скачать приложение](https://github.com/Leonid-ux/lets-dashboard/releases/latest)
 
-**Дизайн**
-`UX/UI Design` `Design Systems` `Wireframing` `Prototyping` `Data Visualization` `Information Architecture` `Responsive Design`
+### [Lets Todo](https://github.com/Leonid-ux/lets-todo)
 
-**Инструменты**
-`Figma` `HTML/CSS (basics)` `Git` `GitHub` `AI-assisted Development`
+Минималистичное приложение для управления **задачами, привычками и событиями**. Умный ввод на естественном языке, трекеры активности, таймеры и персональная статистика.
 
-**Домен**
-`CMS` `IoT` `Dashboards` `Enterprise Software`
+[![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white)](https://github.com/Leonid-ux/lets-todo/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Leonid-ux/lets-todo/total?style=flat-square&color=B66A50&label=Downloads)](https://github.com/Leonid-ux/lets-todo/releases)
+[![Version](https://img.shields.io/github/v/release/Leonid-ux/lets-todo?style=flat-square&color=238636&label=Version)](https://github.com/Leonid-ux/lets-todo/releases/latest)
+[![Stars](https://img.shields.io/github/stars/Leonid-ux/lets-todo?style=flat-square&color=666666&label=Stars)](https://github.com/Leonid-ux/lets-todo/stargazers)
 
-**Soft skills**
+[Репозиторий](https://github.com/Leonid-ux/lets-todo) · [Скачать приложение](https://github.com/Leonid-ux/lets-todo/releases/latest)
+
+
+## Поддержать проекты
+Lets Dashboard и Lets Todo — независимые проекты, которые я разрабатываю в свободное время. Если приложения оказались полезными, вы можете поддержать их дальнейшее развитие.
+
+[![DonationAlerts](https://img.shields.io/badge/Поддержать-DonationAlerts-FF7F00?style=flat-square)](https://www.donationalerts.com/r/leonid_ux)
+
+Также можно воспользоваться QR-кодом:
+
+<a href="https://www.donationalerts.com/r/leonid_ux">
+  <img src="https://files.donationalerts.com/uploads/qr/11750644/qr_d3265ffca371884a4c0e9167371b7393.png" alt="QR-код DonationAlerts" width="140">
+</a>
+
+
+### Профессиональный опыт
+
+**[DCMSys](https://dcmsys.com/) · Lead UX/UI Designer**
+
+Проектирование медицинских интерфейсов, развитие дизайн-системы и унификация компонентов для сложного программного обеспечения.
+
+**[Scarlett and Monarch](https://websm.io/) · CMS**
+
+Более трёх лет сотрудничества в области проектирования и разработки интерфейсов систем управления контентом.
+
+**[Мособлгаз](https://mosoblgaz.ru/) · Автоматизация процессов**
+
+Участие в разработке приложения для управления потребительскими услугами, техническим обслуживанием и ремонтом оборудования.
+
+**[Visiology](https://ru.visiology.su/) / [Polymedia](https://www.polymedia.ru/) · Визуализация данных**
+
+Проектирование интерфейсов и графических компонентов для систем управления видеостенами, проекционным оборудованием и комплексами Polywall.
+
+**OpenMetering · IoT**
+
+Проектирование мобильных и веб-интерфейсов для визуализации и анализа данных коммуникационных цепочек. Швеция.
+
+**[Staq Digital](https://staq.ru/) · Enterprise**
+
+Проектирование веб- и мобильных интерфейсов платформы STAQ для автоматизации операционных процессов предприятий.
+
+
+
+## Компетенции
+
+**UX/UI и дизайн-системы**
+
+`Product Design` `UX/UI` `Design Systems` `Prototyping` `Wireframing` `Information Architecture` `Data Visualization` `Responsive Design`
+
+**Инструменты и разработка**
+
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-663399?style=flat-square&logo=css&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/Leonid-ux)
+![AI-assisted Development](https://img.shields.io/badge/AI--assisted-Development-666666?style=flat-square)
+
+**Предметные области**
+
+`Healthcare` `CMS` `IoT` `Dashboards` `Enterprise Software` `Industrial UI`
+
+**Процессы**
+
 `Project Documentation` `Roadmapping` `Backlog Management` `Technical Writing` `Team Collaboration`
 
+
+
+## Контакты
+
+- **Портфолио:** [leonidts.tilda.ws](https://leonidts.tilda.ws/)
+- **Figma:** [figma.com/@leonid](https://www.figma.com/@leonid)
+- **Dribbble:** [dribbble.com/lets](https://dribbble.com/lets)
+- **Email:** [leonidts@vk.com](mailto:leonidts@vk.com)
+
 ---
 
-### Контакты
-
-- 🌐 Портфолио: [leonidts.tilda.ws](https://leonidts.tilda.ws)
-- 🎨 Figma: [figma.com/@leonid](https://www.figma.com/@leonid)
-- 🏀 Dribbble: [dribbble.com/lets](https://dribbble.com/lets)
-- 📧 Email: leonidts@vk.com
-
----
-
-<sub>Открыт к интересным проектам в UX/UI, дизайн-системах и сложных интерфейсах.</sub>
+*Открыт к интересным проектам в UX/UI, дизайн-системах и разработке сложных интерфейсов.*
