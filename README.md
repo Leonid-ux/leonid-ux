@@ -116,4 +116,3 @@ Lets Dashboard и Lets Todo — независимые проекты, кото�
 
 - **Портфолио:** [leonidts.tilda.ws](https://leonidts.tilda.ws/)
 - **Figma:** [figma.com/@leonid](https://www.figma.com/@leonid)
-- **Dribbble:** [dr
