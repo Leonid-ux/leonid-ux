@@ -14,8 +14,6 @@
 [![Email](https://img.shields.io/badge/Email-252525?style=flat-square&logo=gmail&logoColor=white)](mailto:leonidts@vk.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Leonid-ux&label=Profile+views&color=B66A50&style=flat-square)
 
----
-
 ## Собственные проекты
 
 ### [Lets Dashboard](https://github.com/Leonid-ux/lets-dashboard)
@@ -28,8 +26,10 @@
 [![Downloads](https://img.shields.io/github/downloads/Leonid-ux/lets-dashboard/total?style=flat-square&color=0E7490&label=Downloads)](https://github.com/Leonid-ux/lets-dashboard/releases)
 [![Version](https://img.shields.io/github/v/release/Leonid-ux/lets-dashboard?style=flat-square&color=238636&label=Version)](https://github.com/Leonid-ux/lets-dashboard/releases/latest)
 [![Stars](https://img.shields.io/github/stars/Leonid-ux/lets-dashboard?style=flat-square&color=666666&label=Stars)](https://github.com/Leonid-ux/lets-dashboard/stargazers)
-
-
+[![Forks](https://img.shields.io/github/forks/Leonid-ux/lets-dashboard?style=flat-square&color=666666&label=Forks)](https://github.com/Leonid-ux/lets-dashboard/forks)
+[![Open Issues](https://img.shields.io/github/issues/Leonid-ux/lets-dashboard?style=flat-square&color=B66A50&label=Open%20Issues)](https://github.com/Leonid-ux/lets-dashboard/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/Leonid-ux/lets-dashboard?style=flat-square&color=666666&label=Last%20Commit)](https://github.com/Leonid-ux/lets-dashboard/commits)
+[![Commits since release](https://img.shields.io/github/commits-since/Leonid-ux/lets-dashboard/latest?style=flat-square&color=0E7490&label=Commits%20since%20release)](https://github.com/Leonid-ux/lets-dashboard/commits)
 
 ---
 
@@ -43,7 +43,10 @@
 [![Downloads](https://img.shields.io/github/downloads/Leonid-ux/lets-todo/total?style=flat-square&color=B66A50&label=Downloads)](https://github.com/Leonid-ux/lets-todo/releases)
 [![Version](https://img.shields.io/github/v/release/Leonid-ux/lets-todo?style=flat-square&color=238636&label=Version)](https://github.com/Leonid-ux/lets-todo/releases/latest)
 [![Stars](https://img.shields.io/github/stars/Leonid-ux/lets-todo?style=flat-square&color=666666&label=Stars)](https://github.com/Leonid-ux/lets-todo/stargazers)
-
+[![Forks](https://img.shields.io/github/forks/Leonid-ux/lets-todo?style=flat-square&color=666666&label=Forks)](https://github.com/Leonid-ux/lets-todo/forks)
+[![Open Issues](https://img.shields.io/github/issues/Leonid-ux/lets-todo?style=flat-square&color=B66A50&label=Open%20Issues)](https://github.com/Leonid-ux/lets-todo/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/Leonid-ux/lets-todo?style=flat-square&color=666666&label=Last%20Commit)](https://github.com/Leonid-ux/lets-todo/commits)
+[![Commits since release](https://img.shields.io/github/commits-since/Leonid-ux/lets-todo/latest?style=flat-square&color=B66A50&label=Commits%20since%20release)](https://github.com/Leonid-ux/lets-todo/commits)
 
 ---
 
@@ -116,3 +119,5 @@ Lets Dashboard и Lets Todo — независимые проекты, кото�
 
 - **Портфолио:** [leonidts.tilda.ws](https://leonidts.tilda.ws/)
 - **Figma:** [figma.com/@leonid](https://www.figma.com/@leonid)
+- **Dribbble:** [dribbble.com/lets](https://dribbble.com/lets)
+- **Email:** [leonidts@vk.com](mailto:leonidts@vk.com)
